@@ -1,0 +1,3 @@
+[submodule "lib/glwrap"]
+	path = lib/glwrap
+	url = https://github.com/Ludrak/glwrap
